@@ -5,7 +5,7 @@
 }
 
 body{
-    background: linear-gradient(rgba(0,0,0,0,4)50%,rgba(0,0,0,0,4)50%, url(lg.png));
+    background: url(lg.png) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
